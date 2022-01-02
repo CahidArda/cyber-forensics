@@ -1,3 +1,3 @@
-# cybersecurity-minor
+# UT Courses
 
-Repository for assignments of the cybersecurity minor in University of Twente
+This repository contains the notebooks I have written for the courses I took in the University of Twente.
